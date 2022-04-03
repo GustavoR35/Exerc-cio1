@@ -7,7 +7,7 @@ package ex1;
 
 /**
  *
- * @author 06803461122
+ * @author GustavoR
  */
 class input {
 
